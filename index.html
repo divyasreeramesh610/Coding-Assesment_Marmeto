@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Home Page</title>
+</head>
+<body>
+    <div class="section" style="padding: 2%;">
+        <center>
+            <h1> SELECT YOUR CHOICE:</h1>
+            <div class="tabs" style="width: 80%;">
+                <button onclick="showProducts('men')" data-category="men"><h4>Men</h4></button>
+                <button onclick="showProducts('women')" data-category="women"><h4>Women</h4></button>
+                <button onclick="showProducts('kids')" data-category="kids"><h4>Kids</h4></button>
+            </div>
+        </center>
+        <div id="product-container"></div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
