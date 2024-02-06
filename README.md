@@ -1,6 +1,6 @@
 
 
-Project Title: Creating a shopify page with the given design
+Project Title: Creating a frontend page with the given design
 
 Project Description:
 
@@ -11,7 +11,7 @@ Key Technologies:
 •	Provided API
 
 Features:
-         Created a page with the given description and design . This project have been made using  HTML , CSS and Javascript. This is a basic design for a shopify pages . 
+         Created a page with the given description and design . This project have been made using  HTML , CSS and Javascript. This is a basic design for a  pages . 
 Demo:
  To run this project Just download all the 3 files and store them in a single folder .Then open them through chrome . Use "open with " option .
  
