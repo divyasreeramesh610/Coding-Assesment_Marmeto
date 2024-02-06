@@ -13,7 +13,7 @@ Key Technologies:
 Features:
          Created a page with the given description and design . This project have been made using  HTML , CSS and Javascript. This is a basic design for a  pages . 
 Demo:
- To run this project Just download all the 3 files and store them in a single folder .Then open them through chrome . Use "open with " option .
+ To run this project  ,Just download the zip file through code option on git ,then extract them and save them in a single folder .Now open the index.html file through chrome . Use "open with " option .
  
 Prerequisites:
 Proper Internet Connecting 
